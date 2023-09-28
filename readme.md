@@ -20,3 +20,5 @@ In summary, this website combines front-end technologies, such as HTML, CSS, Jav
  -Node
  
  -Gulp
+
+![png](https://github.com/iTzSRK/Festival-Project/raw/main/build/img/readme/4.png)
